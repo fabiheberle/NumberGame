@@ -31,6 +31,3 @@ O código JavaScript é bem comentado e autoexplicativo. As principais funcional
 
 ### Considerações:
 * **Limitação:** O jogo atualmente não possui um limite máximo de tentativas.
-
-### Licença:
-Este projeto está licenciado sob a MIT License.
