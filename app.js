@@ -2,7 +2,7 @@
 alert("Bem-vindo ao jogo do Número Secreto");
 
 // Variáveis utilizadas dentro do jogo.
-let numeroMaximo = 1000;
+let numeroMaximo = 100;
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
 let chute;
 let tentativas = 1;
